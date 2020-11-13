@@ -1,0 +1,2135 @@
+[4m[1m   Preparation   
+(B[mWarn: not running on sunfire!
+Info: found source file Alice.py
+Warn: using python3 @ /usr/bin/python3
+Info: found source file Bob.py
+Info: created temporary folder /tmp/tmp.iCTc5Sx6Gi
+[4m[1m-- Test Case 1a - No corruption/loss --
+(B[mBob running
+UnreliNET running
+Starting Alice now
+Alice finished executing
+[7mPassed!
+(B[m[4m[1m-- Test Case 1b - Corruption only --
+(B[mBob running
+UnreliNET running
+Starting Alice now
+Alice finished executing
+[7mPassed!
+(B[m[4m[1m-- Test Case 1c - Loss only --
+(B[mBob running
+UnreliNET running
+Starting Alice now
+5 seconds elapsed
+10 seconds elapsed
+[7mChecksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Traceback (most recent call last):
+  File "/mnt/d/Upwork/Clifford/proj2/proj2/test/Bob.py", line 15, in <module>
+    msg, clientaddr = serverSocket.recvfrom(4000)
+KeyboardInterrupt
+ receive
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 822827989|1|7
+
+trying to receive
+Timeout
+Sending : 822827989|1|7
+
+trying to receive
+Timeout
+Sending : 822827989|1|7
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 3063105306|0|8
+
+trying to receive
+Timeout
+Sending : 3063105306|0|8
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Timeout
+Sending : 438700054|0|4
+
+trying to receive
+Timeout
+Sending : 438700054|0|4
+
+trying to receive
+Timeout
+Sending : 438700054|0|4
+
+trying to receive
+Timeout
+Sending : 438700054|0|4
+
+trying to receive
+Timeout
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 672164500|0|6
+
+trying to receive
+Timeout
+Sending : 672164500|0|6
+
+trying to receive
+Timeout
+Sending : 672164500|0|6
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Timeout
+Sending : 438700054|1|4
+
+trying to receive
+Timeout
+Sending : 438700054|1|4
+
+trying to receive
+Timeout
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 2118831378|1|0
+
+trying to receive
+Timeout
+Sending : 2118831378|1|0
+
+trying to receive
+Timeout
+Sending : 2118831378|1|0
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 2118831378|0|0
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Timeout
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Timeout
+Sending : 3063105306|1|8
+
+trying to receive
+Timeout
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 672164500|0|6
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 822827989|1|7
+
+trying to receive
+Timeout
+Sending : 822827989|1|7
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 3063105306|0|8
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Timeout
+Sending : 672164500|1|6
+
+trying to receive
+Timeout
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Timeout
+Sending : 438700054|1|4
+
+trying to receive
+Timeout
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Timeout
+Sending : 438700054|1|4
+
+trying to receive
+Timeout
+Sending : 438700054|1|4
+
+trying to receive
+Timeout
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 1733426259|0|1
+
+trying to receive
+Timeout
+Sending : 1733426259|0|1
+
+trying to receive
+Timeout
+Sending : 1733426259|0|1
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 2118831378|0|0
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 2944955995|1|9
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Timeout
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1432854225|1|3
+
+trying to receiveFailed:
+Output size smaller than input size
+Output size: 396
+Input size: 3432
+(B[m[4m[1m-- Test Case 1d - Corruption and loss --
+(B[mBob running
+UnreliNET running
+Starting Alice now
+5 seconds elapsed
+10 seconds elapsed
+[7mChecksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK1
+Checksum matched. Sending : ACK0
+Checksum matched. Sending : ACK1
+Sending : ACK1
+Checksum matched. Sending : ACK0
+Traceback (most recent call last):
+  File "/mnt/d/Upwork/Clifford/proj2/proj2/test/Bob.py", line 15, in <module>
+    msg, clientaddr = serverSocket.recvfrom(4000)
+KeyboardInterrupt
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 2118831378|0|0
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 1283239824|1|2
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Timeout
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Timeout
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 672164500|0|6
+
+trying to receive
+Sending : 672164500|0|6
+
+trying to receive
+Timeout
+Sending : 672164500|0|6
+
+trying to receive
+Timeout
+Sending : 672164500|0|6
+
+trying to receive
+Timeout
+Sending : 672164500|0|6
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 822827989|1|7
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 3063105306|0|8
+
+trying to receive
+Sending : 3063105306|0|8
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Timeout
+Sending : 672164500|1|6
+
+trying to receive
+Timeout
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 1733426259|0|1
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Timeout
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 2118831378|0|0
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Timeout
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1432854225|1|3
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 822827989|1|7
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 2118831378|1|0
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Timeout
+Sending : 54344023|1|5
+
+trying to receive
+Timeout
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 672164500|0|6
+
+trying to receive
+Timeout
+Sending : 672164500|0|6
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 3063105306|0|8
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1733426259|0|1
+
+trying to receive
+Timeout
+Sending : 1733426259|0|1
+
+trying to receive
+Timeout
+Sending : 1733426259|0|1
+
+trying to receive
+Timeout
+Sending : 1733426259|0|1
+
+trying to receive
+Sending : 1733426259|0|1
+
+trying to receive
+Sending : 1733426259|0|1
+
+trying to receive
+Sending : 1733426259|0|1
+
+trying to receive
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 2118831378|1|0
+
+trying to receive
+Timeout
+Sending : 2118831378|1|0
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 438700054|0|4
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1432854225|1|3
+
+trying to receive
+Timeout
+Sending : 1432854225|1|3
+
+trying to receive
+Timeout
+Sending : 1432854225|1|3
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 822827989|1|7
+
+trying to receive
+Timeout
+Sending : 822827989|1|7
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Timeout
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 2118831378|1|0
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 2944955995|1|9
+
+trying to receive
+Timeout
+Sending : 2944955995|1|9
+
+trying to receive
+Sending : 2944955995|1|9
+
+trying to receive
+Sending : 3063105306|0|8
+
+trying to receive
+Sending : 1432854225|1|3
+
+trying to receive
+Sending : 1432854225|1|3
+
+trying to receive
+Sending : 1432854225|1|3
+
+trying to receive
+Sending : 1733426259|0|1
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 1283239824|1|2
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 2118831378|1|0
+
+trying to receive
+Timeout
+Sending : 2118831378|1|0
+
+trying to receive
+Sending : 1733426259|0|1
+
+trying to receive
+Timeout
+Sending : 1733426259|0|1
+
+trying to receive
+Sending : 2944955995|1|9
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 2118831378|1|0
+
+trying to receive
+Timeout
+Sending : 2118831378|1|0
+
+trying to receive
+Timeout
+Sending : 2118831378|1|0
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|0|2
+
+trying to receive
+Timeout
+Sending : 1283239824|0|2
+
+trying to receive
+Sending : 1283239824|1|2
+
+trying to receive
+Sending : 2118831378|0|0
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 1432854225|1|3
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Timeout
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Timeout
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 672164500|1|6
+
+trying to receive
+Sending : 2944955995|0|9
+
+trying to receive
+Sending : 1283239824|1|2
+
+trying to receive
+Timeout
+Sending : 1283239824|1|2
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 438700054|1|4
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Timeout
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 1432854225|1|3
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 822827989|0|7
+
+trying to receive
+Timeout
+Sending : 822827989|0|7
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 672164500|0|6
+
+trying to receive
+Sending : 3063105306|1|8
+
+trying to receive
+Sending : 2118831378|0|0
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Timeout
+Sending : 54344023|1|5
+
+trying to receive
+Timeout
+Sending : 54344023|1|5
+
+trying to receive
+Timeout
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 1432854225|0|3
+
+trying to receive
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Timeout
+Sending : 1733426259|1|1
+
+trying to receive
+Sending : 1733426259|0|1
+
+trying to receive
+Timeout
+Sending : 1733426259|0|1
+
+trying to receive
+Timeout
+Sending : 1733426259|0|1
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 54344023|1|5
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+
+trying to receive
+Timeout
+Sending : 54344023|0|5
+Failed:
+Output size smaller than input size
+Output size: 546
+Input size: 3432
+(B[m

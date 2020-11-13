@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/mnt/d/Upwork/Clifford/proj2/proj2/test/Bob.py", line 15, in <module>
+    msg, clientaddr = serverSocket.recvfrom(64)
+KeyboardInterrupt

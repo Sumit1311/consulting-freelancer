@@ -1,0 +1,278 @@
+[Train   7] joins the loading bay queue
+[Train   7] enters the loading bays
+[Train   8] joins the loading bay queue
+[Train   6] joins the loading bay queue
+[Train   9] joins the loading bay queue
+[Train  10] joins the loading bay queue
+[Train  11] joins the loading bay queue
+[Train  12] joins the loading bay queue
+[Train  13] joins the loading bay queue
+[Train  14] joins the loading bay queue
+[Train  15] joins the loading bay queue
+[Train  16] joins the loading bay queue
+[Train  17] joins the loading bay queue
+[Train  18] joins the loading bay queue
+[Train   5] joins the loading bay queue
+[Train  19] joins the loading bay queue
+[Train  20] joins the loading bay queue
+[Train  21] joins the loading bay queue
+[Train  22] joins the loading bay queue
+[Train  23] joins the loading bay queue
+[Train  24] joins the loading bay queue
+[Train  25] joins the loading bay queue
+[Train  26] joins the loading bay queue
+[Train  27] joins the loading bay queue
+[Train  28] joins the loading bay queue
+[Train  29] joins the loading bay queue
+[Train  30] joins the loading bay queue
+[Train   4] joins the loading bay queue
+[Train  31] joins the loading bay queue
+[Train  32] joins the loading bay queue
+[Train  33] joins the loading bay queue
+[Train   3] joins the loading bay queue
+[Train   2] joins the loading bay queue
+[Train   1] joins the loading bay queue
+[Train   0] joins the loading bay queue
+[Train   7] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train   7] 0 trains with priority 0 have to exit before current train
+[Train   7] Exiting...
+[Train   7] Exiting finished. Another train can exit. 
+[Train  49] joins the loading bay queue
+[Train  48] joins the loading bay queue
+[Train  47] joins the loading bay queue
+[Train  46] joins the loading bay queue
+[Train  45] joins the loading bay queue
+[Train  44] joins the loading bay queue
+[Train  43] joins the loading bay queue
+[Train  42] joins the loading bay queue
+[Train  41] joins the loading bay queue
+[Train  40] joins the loading bay queue
+[Train  39] joins the loading bay queue
+[Train  38] joins the loading bay queue
+[Train  37] joins the loading bay queue
+[Train  36] joins the loading bay queue
+[Train  35] joins the loading bay queue
+[Train  34] joins the loading bay queue
+[Train   8] enters the loading bays
+[Train   8] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train   8] Exiting...
+[Train   6] enters the loading bays
+[Train   8] Exiting finished. Another train can exit. 
+[Train   6] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train   6] 0 trains with priority 0 have to exit before current train
+[Train   6] Exiting...
+[Train   6] Exiting finished. Another train can exit. 
+[Train   9] enters the loading bays
+[Train   9] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train   9] 0 trains with priority 0 have to exit before current train
+[Train   9] Exiting...
+[Train   9] Exiting finished. Another train can exit. 
+[Train  10] enters the loading bays
+[Train  10] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  10] Exiting...
+[Train  11] enters the loading bays
+[Train  10] Exiting finished. Another train can exit. 
+[Train  11] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  11] 0 trains with priority 0 have to exit before current train
+[Train  11] Exiting...
+[Train  12] enters the loading bays
+[Train  11] Exiting finished. Another train can exit. 
+[Train  12] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  12] 0 trains with priority 0 have to exit before current train
+[Train  12] Exiting...
+[Train  12] Exiting finished. Another train can exit. 
+[Train  13] enters the loading bays
+[Train  13] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  13] 0 trains with priority 0 have to exit before current train
+[Train  13] Exiting...
+[Train  13] Exiting finished. Another train can exit. 
+[Train  14] enters the loading bays
+[Train  14] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  14] Exiting...
+[Train  15] enters the loading bays
+[Train  14] Exiting finished. Another train can exit. 
+[Train  15] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  15] Exiting...
+[Train  16] enters the loading bays
+[Train  15] Exiting finished. Another train can exit. 
+[Train  16] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  16] 0 trains with priority 0 have to exit before current train
+[Train  16] Exiting...
+[Train  17] enters the loading bays
+[Train  17] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  16] Exiting finished. Another train can exit. 
+[Train  17] Exiting...
+[Train  17] Exiting finished. Another train can exit. 
+[Train  18] enters the loading bays
+[Train  18] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  18] Exiting...
+[Train  18] Exiting finished. Another train can exit. 
+[Train   5] enters the loading bays
+[Train   5] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train   5] Exiting...
+[Train   5] Exiting finished. Another train can exit. 
+[Train  19] enters the loading bays
+[Train  19] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  19] 0 trains with priority 0 have to exit before current train
+[Train  19] Exiting...
+[Train  19] Exiting finished. Another train can exit. 
+[Train  20] enters the loading bays
+[Train  20] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  20] Exiting...
+[Train  21] enters the loading bays
+[Train  20] Exiting finished. Another train can exit. 
+[Train  21] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  21] 0 trains with priority 0 have to exit before current train
+[Train  21] Exiting...
+[Train  21] Exiting finished. Another train can exit. 
+[Train  22] enters the loading bays
+[Train  22] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  22] 0 trains with priority 0 have to exit before current train
+[Train  22] Exiting...
+[Train  22] Exiting finished. Another train can exit. 
+[Train  23] enters the loading bays
+[Train  23] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  23] 0 trains with priority 0 have to exit before current train
+[Train  23] Exiting...
+[Train  23] Exiting finished. Another train can exit. 
+[Train  24] enters the loading bays
+[Train  24] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  24] Exiting...
+[Train  24] Exiting finished. Another train can exit. 
+[Train  25] enters the loading bays
+[Train  25] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  25] Exiting...
+[Train  26] enters the loading bays
+[Train  25] Exiting finished. Another train can exit. 
+[Train  26] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  26] 0 trains with priority 0 have to exit before current train
+[Train  26] Exiting...
+[Train  26] Exiting finished. Another train can exit. 
+[Train  27] enters the loading bays
+[Train  27] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  27] Exiting...
+[Train  27] Exiting finished. Another train can exit. 
+[Train  28] enters the loading bays
+[Train  28] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  28] 0 trains with priority 0 have to exit before current train
+[Train  28] Exiting...
+[Train  28] Exiting finished. Another train can exit. 
+[Train  29] enters the loading bays
+[Train  29] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  29] 0 trains with priority 0 have to exit before current train
+[Train  29] Exiting...
+[Train  29] Exiting finished. Another train can exit. 
+[Train  30] enters the loading bays
+[Train  30] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  30] Exiting...
+[Train  30] Exiting finished. Another train can exit. 
+[Train   4] enters the loading bays
+[Train   4] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train   4] 0 trains with priority 0 have to exit before current train
+[Train   4] Exiting...
+[Train  31] enters the loading bays
+[Train   4] Exiting finished. Another train can exit. 
+[Train  31] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  31] Exiting...
+[Train  32] enters the loading bays
+[Train  31] Exiting finished. Another train can exit. 
+[Train  32] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  32] Exiting...
+[Train  32] Exiting finished. Another train can exit. 
+[Train  33] enters the loading bays
+[Train  33] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  33] Exiting...
+[Train   3] enters the loading bays
+[Train  33] Exiting finished. Another train can exit. 
+[Train   3] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train   3] 0 trains with priority 0 have to exit before current train
+[Train   3] Exiting...
+[Train   3] Exiting finished. Another train can exit. 
+[Train   2] enters the loading bays
+[Train   2] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train   2] 0 trains with priority 0 have to exit before current train
+[Train   2] Exiting...
+[Train   2] Exiting finished. Another train can exit. 
+[Train   1] enters the loading bays
+[Train   1] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train   1] 0 trains with priority 0 have to exit before current train
+[Train   1] Exiting...
+[Train   0] enters the loading bays
+[Train   1] Exiting finished. Another train can exit. 
+[Train   0] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train   0] 0 trains with priority 0 have to exit before current train
+[Train   0] Exiting...
+[Train   0] Exiting finished. Another train can exit. 
+[Train  49] enters the loading bays
+[Train  49] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  49] 0 trains with priority 0 have to exit before current train
+[Train  49] Exiting...
+[Train  49] Exiting finished. Another train can exit. 
+[Train  48] enters the loading bays
+[Train  48] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  48] Exiting...
+[Train  48] Exiting finished. Another train can exit. 
+[Train  47] enters the loading bays
+[Train  47] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  47] 0 trains with priority 0 have to exit before current train
+[Train  47] Exiting...
+[Train  46] enters the loading bays
+[Train  47] Exiting finished. Another train can exit. 
+[Train  46] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  46] Exiting...
+[Train  46] Exiting finished. Another train can exit. 
+[Train  45] enters the loading bays
+[Train  45] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  45] 0 trains with priority 0 have to exit before current train
+[Train  45] Exiting...
+[Train  45] Exiting finished. Another train can exit. 
+[Train  44] enters the loading bays
+[Train  44] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  44] Exiting...
+[Train  43] enters the loading bays
+[Train  44] Exiting finished. Another train can exit. 
+[Train  43] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  43] Exiting...
+[Train  42] enters the loading bays
+[Train  43] Exiting finished. Another train can exit. 
+[Train  42] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  42] 0 trains with priority 0 have to exit before current train
+[Train  42] Exiting...
+[Train  41] enters the loading bays
+[Train  42] Exiting finished. Another train can exit. 
+[Train  41] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  41] 0 trains with priority 0 have to exit before current train
+[Train  41] Exiting...
+[Train  40] enters the loading bays
+[Train  41] Exiting finished. Another train can exit. 
+[Train  40] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  40] 0 trains with priority 0 have to exit before current train
+[Train  40] Exiting...
+[Train  39] enters the loading bays
+[Train  40] Exiting finished. Another train can exit. 
+[Train  39] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  39] 0 trains with priority 0 have to exit before current train
+[Train  39] Exiting...
+[Train  39] Exiting finished. Another train can exit. 
+[Train  38] enters the loading bays
+[Train  38] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  38] 0 trains with priority 0 have to exit before current train
+[Train  38] Exiting...
+[Train  37] enters the loading bays
+[Train  38] Exiting finished. Another train can exit. 
+[Train  37] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  37] Exiting...
+[Train  36] enters the loading bays
+[Train  37] Exiting finished. Another train can exit. 
+[Train  36] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  36] Exiting...
+[Train  35] enters the loading bays
+[Train  36] Exiting finished. Another train can exit. 
+[Train  35] leaves the loading bay and starts waiting to exit (Priority: 0)
+[Train  35] Exiting...
+[Train  34] enters the loading bays
+[Train  35] Exiting finished. Another train can exit. 
+[Train  34] leaves the loading bay and starts waiting to exit (Priority: 1)
+[Train  34] 0 trains with priority 0 have to exit before current train
+[Train  34] Exiting...
+[Train  34] Exiting finished. Another train can exit. 
